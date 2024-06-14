@@ -1,0 +1,52 @@
+body{
+    background-color: pink;
+    border: 20px rgb(255,105, 180);
+      font-family: "Noto Sans"; font-size: 15px;
+  }
+  
+  header {
+    color: white;
+    background-color: rgb(255, 105, 180);
+    margin-left: 17px;
+    margin-right: 17px;
+    border: 2px rgb(255, 105, 180);
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  section#ADM {
+     color: white;
+     background-color: rgb(255, 105, 180);
+     margin-left: 17px;
+     margin-right: 17px;
+     border: 2px, deeppink;
+    border-radius: 20px;
+  }
+    
+  section#EL {
+     color: white;
+     background-color: rgb(255, 105, 180);
+     margin-left: 17px;
+     margin-right: 17px;
+     border: 2px, deeppink;
+    border-radius: 20px;
+  }
+  
+  section#habilidades {
+     color: white;
+     background-color: rgb(255, 105, 180);
+     margin-left: 17px;
+     margin-right: 17px;
+     border: 2px, deeppink;
+    border-radius: 20px;
+  }
+    
+  section#contacto {
+     color: white;
+     background-color: rgb(255, 105, 180);
+     margin-left: 17px;
+     margin-right: 17px;
+     border: 2px, deeppink;
+    border-radius: 20px;
+  }
+  
