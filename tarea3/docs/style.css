@@ -50,3 +50,11 @@ body{
     border-radius: 20px;
   }
   
+  section#foto {
+    color: white;
+       background-color: rgb(255, 105, 180);
+       margin-left: 17px;
+       margin-right: 17px;
+       border: 2px, deeppink;
+      border-radius: 20px;
+  }
